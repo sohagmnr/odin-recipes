@@ -1,3 +1,3 @@
 # odin-recipes
 
-Hello Odin!
+Grandma's recipe
